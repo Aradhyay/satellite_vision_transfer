@@ -24,3 +24,13 @@ The model performs well on the test set and shows good generalization on new ima
 Test Type	Description	Performance
 Validation	Images from the Kaggle dataset	[Insert IoU/Accuracy, e.g., 85% IoU]
 Zero-Shot	Images from [Insert New Location]	Visual Success (Segments objects correctly without retraining)
+
+# Satellite Imagery — Semantic Segmentation
+
+[![Open in nbviewer](https://img.shields.io/badge/Jupyter-Open%20in%20nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/Aradhyay/satellite_vision_transfer/blob/main/Satellite_Imagery_GITHUB_READY%20(1).ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aradhyay/satellite_vision_transfer/blob/main/Satellite_Imagery_GITHUB_READY%20(1).ipynb)
+
+Semantic segmentation model trained on Dubai satellite dataset,
+tested on Mumbai using zero-shot and few-shot transfer learning.
+Built with U-Net + ResNet34 using PyTorch.
