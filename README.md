@@ -29,9 +29,9 @@ The experiment proved that standard deep learning models suffer heavily under ge
 | **Few-Shot** | Mumbai (Target) | **~0.70** | Recovered and surpassed the original baseline using only 50 local training images! |
 
 ## Images 
-<img width="728" height="352" alt="Screenshot 2026-05-31 163039" src="https://github.com/user-attachments/assets/63d0a98b-7927-4fa8-a8c2-5fdd270aa259" />
-<img width="715" height="324" alt="Screenshot 2026-05-31 162956" src="https://github.com/user-attachments/assets/4246b1f0-c308-4814-beca-04e9081182f4" />
 <img width="696" height="231" alt="Screenshot 2026-05-31 162842" src="https://github.com/user-attachments/assets/93edb5a6-80bc-4158-bd0b-3eabd39666d7" />
+<img width="715" height="324" alt="Screenshot 2026-05-31 162956" src="https://github.com/user-attachments/assets/4246b1f0-c308-4814-beca-04e9081182f4" />
+<img width="728" height="352" alt="Screenshot 2026-05-31 163039" src="https://github.com/user-attachments/assets/63d0a98b-7927-4fa8-a8c2-5fdd270aa259" />
 
 ## You can see my codes here
 [![Open in nbviewer](https://img.shields.io/badge/Jupyter-Open%20in%20nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/Aradhyay/satellite_vision_transfer/blob/main/Satellite_Imagery_GITHUB_READY%20(1).ipynb)
